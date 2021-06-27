@@ -1,0 +1,13 @@
+{
+    "name": "nodejs_docker_app",
+    "version": "1.0.0",
+    "description": "Node.js and Docker basic project",
+    "author": "Maria Fernanda Ibarra",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.16.1"
+    }
+  }
